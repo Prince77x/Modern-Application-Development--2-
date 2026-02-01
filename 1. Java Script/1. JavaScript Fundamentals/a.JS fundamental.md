@@ -241,7 +241,7 @@ typeof null      // "object" ❌ (JS bug)
 ### 🔹 Logical Operators
 
 | Operator | Meaning |   |    |
-| -------- | ------- | - | -- |
+| -------- | ------- | - | -- | 
 | `&&`     | AND     |   |    |
 | `        |         | ` | OR |
 | `!`      | NOT     |   |    |
