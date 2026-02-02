@@ -8,4 +8,3 @@ const name= "Prince"
 console.log(x+y)
 let z = x++
 console.log(z,x)
- 
