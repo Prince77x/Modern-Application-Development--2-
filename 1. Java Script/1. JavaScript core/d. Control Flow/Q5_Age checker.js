@@ -9,3 +9,4 @@ if (age < 13) {
 } else {
   console.log("Senior");
 }
+  
